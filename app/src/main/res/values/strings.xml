@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VoMPR</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="exit_message">Are you sure, You want to Exit ?</string>
+</resources>
